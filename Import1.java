@@ -5,7 +5,7 @@ public class EvenOdd {
     public static void main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
-
+#izmenaaaaaa
         System.out.print("Enter a number: ");
         int num = reader.nextInt();
 
